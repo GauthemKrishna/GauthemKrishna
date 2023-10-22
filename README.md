@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthemkrishna&label=Profile%20views&color=0e75b6&style=flat" alt="gauthemkrishna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthemkrishna" alt="gauthemkrishna" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Data Analytics and Data Science.**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gauthem/](https://www.linkedin.com/in/gauthem/)
